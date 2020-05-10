@@ -1,4 +1,4 @@
-# Number-Count-Game-BOT-
+# Number-Count-Game-BOT
     A Game Bot Developed in Python.
 
 ### CATEGORY  : 
