@@ -2,6 +2,7 @@
     A Game Bot Developed in Python.
 
 CATEGORY  : Game Bot.
+
 OBJECTIVE : Analyze and design a Constructive bot which is ready to play
             against and Win in all favorable Stages.
 Game Rules:
@@ -18,3 +19,4 @@ SOLUTION:
 TECHNOLOGY STACK: 1.Python 3/Python 2.7
                   2.Auto-py-to-exe 
                   
+         I attached both Python file and Execution file in Code Section. Download and simply click the NUMBERCOUNTGAME.exe file to play the game.
