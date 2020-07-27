@@ -1,8 +1,6 @@
 # Number-Count-Game-BOT
     A Game Bot Developed in Python.
-    <br>
-    <center><a href="https://github.com/2000DineshVenkat2000/Number-Count-Game-BOT-/raw/master/NUMBERCOUNTSGAME.exe"><button class = "btn-primary" name = download value = download>Download</button></a></center>
-
+   
 ### CATEGORY  : 
             Game Bot.
 
@@ -25,3 +23,6 @@ the total. (Initial Total Value is considered to be 0)
                     2.Auto-py-to-exe 
                   
          I attached both Python file and Execution file in Code Section. Download and simply click the NUMBERCOUNTGAME.exe file to play the game.
+
+### DOWNLOAD BOT:
+        https://github.com/2000DineshVenkat2000/Number-Count-Game-BOT-/raw/master/NUMBERCOUNTSGAME.exe
