@@ -1,5 +1,7 @@
 # Number-Count-Game-BOT
     A Game Bot Developed in Python.
+    <br>
+    <center><a href="https://github.com/2000DineshVenkat2000/Number-Count-Game-BOT-/raw/master/NUMBERCOUNTSGAME.exe"><button class = "btn-primary" name = download value = download>Download</button></a></center>
 
 ### CATEGORY  : 
             Game Bot.
